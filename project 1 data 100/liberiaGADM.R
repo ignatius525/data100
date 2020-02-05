@@ -5,7 +5,7 @@ install.packages("sf", dependencies = TRUE)
 library(tidyverse)
 library(sf)
 
-setwd("C:/Users/Ignat/Desktop/project 1 data 100")
+setwd("C:/Users/Ignat/Desktop/data100/project 1 data 100")
 
 lbr_int <- read_sf("data/gadm36_LBR_shp/gadm36_LBR_0.shp")
 lbr_adm1 <- read_sf("data/gadm36_LBR_shp/gadm36_LBR_1.shp")
@@ -31,3 +31,4 @@ ggplot() +
                aes(label = NAME_1),
                size = 1)
 ggsave("liberia_adm2.png")
+
