@@ -12,8 +12,8 @@ ukr_adm2 <- read_sf("data/gadm36_UKR_shp/gadm36_UKR_2.shp")
 ggplot() +
   geom_sf(data = ukr_adm2,
           size = .30,
-          color = "blue3",
-          fill = "yellow2",
+          color = "blue2",
+          fill = "yellow",
           alpha = .65) +
   geom_sf(data = ukr_adm1,
           size = .65,
@@ -21,6 +21,7 @@ ggplot() +
           alpha = .65) +
   geom_sf(data = ukr_int,
           size = 2,
+          color = "blue",
           alpha = 0) +
   geom_sf_text(data = ukr_adm2,
                aes(label = NAME_2),
