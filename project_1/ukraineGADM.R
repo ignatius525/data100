@@ -60,5 +60,7 @@ ggplot() +
   annotation_custom(ggplotGrob(plot2), xmin = 8.0, xmax = 12.0, ymin = 0.0, 
                     ymax = 4.0) +
   theme_void()
+
+
   
 ggsave("ukraine_details.png", width = 23.92, height = 14.20)
