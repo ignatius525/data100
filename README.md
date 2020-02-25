@@ -2,7 +2,7 @@
 ## Iggy
 
 ### Projects
-1. [Project_1](https://github.com/ignatius525/data100/blob/master/project_1/project_1.MD)
+1. [Project_1](https://github.com/ignatius525/data100/blob/master/project_1/project_1.html)
 
 ### Images
 1.[Ukraine's Administrative Subdivisions](https://github.com/ignatius525/data100/blob/master/project%201%20data%20100/ukraine_adm2.png)
