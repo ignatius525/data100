@@ -3,6 +3,7 @@
 
 ### Projects
 1. [Project_1](project_1/project_1.md)
+2. [Project_2](project_2/)
 
 ### Images
 1.[Ukraine's Administrative Subdivisions](https://github.com/ignatius525/data100/blob/master/project%201%20data%20100/ukraine_adm2.png)
