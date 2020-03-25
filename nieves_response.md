@@ -1,0 +1,5 @@
+#Nieves Response
+
+##Ignat Miagkov
+
+### Nieves et a. use the random forest machine learning method to determine population density in low-to-middle income countries, with an attempt to be able to apply this strategy globally. The random forest method consists of three main steps: selection of covariates for the model, applying the covariates to create a predicted population layer, and dasymetric population allocation of the actual census data to reinforce the model. Dasymetric population allocation is distributing population into different zones, with each zone having different population data from the predicted model. The most important covariates for prediciting the population density using the random forest model are ecology and topography. The random forest model does not need as many parameters as a traditional method: it learns how to redistribute the population on its own rather than being told how to redistribute it. The random forest model can use multiple covariates at once to create a more accurate model than traditional methods.
