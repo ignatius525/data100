@@ -8,3 +8,11 @@
   
 ![](pop19_dst190_ntl_regression.png)
 [Regression Statistics](pop19_dst190_ntl.txt)
+  This is a linear model predicting population density based on urban cover and night time lights. This model plots the differences (residuals) from the actual data. Regression statistics are linked in the link above. Overall, this is an okay predictor of population based on these factors in the Kiev and Kiev City districts.
+  
+![](pop19_water_dst190_topo_regression.png)
+[Regression Statistics](pop19_water_dst190_topo.txt)
+  This is a linear model predicting population density based on urban cover, surrounding bodies of watre, and topography of the region. This is a much bettter predictor than the previous linear model as it uses more factors to determine and predict the density of a certain gridcell. 
+  
+### Part 2: Modeling and Predicting Spatial Data
+
