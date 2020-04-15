@@ -34,4 +34,9 @@
 ![](diff_means_kiev2_3d.png)
   The first image displays the predictied populations of the subdivisions using means of the subdivisions as the main predictor in our model. The second image displays the difference between the predicted and the actual, while the last image is the same as the second but a 3D representation. As seen previously, our model does a good job outside the city, but once more extraneous variables are introduced in the city, the variation between the model and the actual increases.
   
+![](logpop_kiev2.png)
+![](diff_logpop_kiev2.png)
+![](diff_logpop_kiev2_3d.png)
+  This final set of images illutrates our model compared to the actual values when using the logarithm of the population sums as the predictor. The first image displays our predicted values for each subdivision when using the log of the population. The second image displays the difference between the actual and predicted, while the third image is the same data but in a 3D representation. When using logpop, the raw difference between the model and the actual is less, but the percent difference between our model and the actual is still about the same when compared with the other predictors that we used earlier.
+  
 
