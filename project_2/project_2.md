@@ -21,3 +21,10 @@
   
 ![](kiev_city_diff.png)
 ![](kiev_city_mapview_diff.png)
+  The first image is the plotted difference in population density between the model and the actual values in Kiev City. As noted above, there is a lot more variation of population in the city, and the model is not 100% accurate for explaining the said variations in the city. The second image is the same data, but displayed over a road map of the city.
+  
+### Part 3: Investigating and Comparing Results
+![](pop_sums_kiev2.png)
+![](diff_sums_kiev2.png)
+![](diff_means_kiev2_3d.png)
+
