@@ -26,5 +26,11 @@
 ### Part 3: Investigating and Comparing Results
 ![](pop_sums_kiev2.png)
 ![](diff_sums_kiev2.png)
+![](diff_sums_kiev2_3d.png)
+  The three above images display the predicted population and difference between the predicted and actual using the sum of each administrative subdivision as the predictor. As we can see, the surrounding area is well predicted by this set of predictors, while in the city the increased variation within the populace results in a less-well explained area.
+ 
+![](pop_means_kiev2.png)
+![](diff_means_keiv2.png)
 ![](diff_means_kiev2_3d.png)
+  
 
