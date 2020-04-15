@@ -15,4 +15,5 @@
   This is a linear model predicting population density based on urban cover, surrounding bodies of watre, and topography of the region. This is a much bettter predictor than the previous linear model as it uses more factors to determine and predict the density of a certain gridcell. 
   
 ### Part 2: Modeling and Predicting Spatial Data
-
+![](kiev_diff.png)
+![](mapview_kiev.png)
