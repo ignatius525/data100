@@ -32,5 +32,6 @@
 ![](pop_means_kiev2.png)
 ![](diff_means_keiv2.png)
 ![](diff_means_kiev2_3d.png)
+  The first image displays the predictied populations of the subdivisions using means of the subdivisions as the main predictor in our model. The second image displays the difference between the predicted and the actual, while the last image is the same as the second but a 3D representation. As seen previously, our model does a good job outside the city, but once more extraneous variables are introduced in the city, the variation between the model and the actual increases.
   
 
