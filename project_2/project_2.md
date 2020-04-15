@@ -17,3 +17,7 @@
 ### Part 2: Modeling and Predicting Spatial Data
 ![](kiev_diff.png)
 ![](mapview_kiev.png)
+  The first image is the plotted difference in population density between the model and the actual values in the Kiev Oblast. As we can see, the model does a pretty good job predicting the population outside the main city, but there is a lot more variation inside the very urban area. The second image is the same data, but displayed over a road map of the region.
+  
+![](kiev_city_diff.png)
+![](kiev_city_mapview_diff.png)
