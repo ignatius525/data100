@@ -1,0 +1,18 @@
+lm(formula = pop19 ~ water + dst190 + topo, data = kiev2)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-173287  -65029  -19925   55727  194965 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  2.014e+05  2.522e+04   7.986 1.75e-09 ***
+water        1.588e-02  2.645e-01   0.060   0.9524    
+dst190       3.136e-02  9.765e-02   0.321   0.7499    
+topo        -5.256e-03  2.530e-03  -2.078   0.0449 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 99580 on 36 degrees of freedom
+Multiple R-squared:  0.3624,	Adjusted R-squared:  0.3092 
+F-statistic:  6.82 on 3 and 36 DF,  p-value: 0.0009325
