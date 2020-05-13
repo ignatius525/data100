@@ -37,3 +37,5 @@ Regression statistics for these models are listed under project 2.
   For the last part of the project, I decided to focus in on Yalta, one the sites of meetings between allied leaders during World War II. I decided to switch my location drastically due to the appropriate population of the area: my hardware was able to process the data for the approximately 130 thousand people living there. Additionally, I tried to study if the Russian influence and annexation of the area (Yalta is in Crimea) has had any impact on human development since 2014. 
   
   Firstly, I attempted to distiguish the urban and more developed areas of Yalta. Unfortunately, I was only able to generate one urban area in my map on Yalta, and this is due to the fact that Yalta is a very urban area and is relatively heavily populated for its size. It is a very narrow district and does have many residents living within its borders. My main urban area that I was able to distinguish is in the nortwest corner of the district, and I was able to confirm this data with a satellaite image of the area. 
+  
+  ![](untitled.png)
