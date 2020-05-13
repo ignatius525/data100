@@ -6,7 +6,7 @@
 2. [Project_2](project_2/project_2.md)
 3. [Project_3](project_3/project_3.md)
 4. [Project_4](project_4/project_4.md)
-5. [Final Project](
+5. [Final Project](final_project/final_project.md)
 
 
 
