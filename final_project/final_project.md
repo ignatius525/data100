@@ -29,4 +29,11 @@
 Regression statistics for these models are listed under project 2.
 
   The more factors we incorporated into our model, such as urban cover and nighttime lights, the more accurate our model got to the actual values, and less variation was detected between samples. However, this does prove that the rural landscape of the surroudning regions of Kiev are less developed than the city itself. 
+  
+ ![](diff_sums_kiev2_3d.png)
+  
+  This image displays the predicted values from our model using all of the factors available to us. The area outside the city is very well predicted: this is because there is no major fluctuations in the large surrounding land mass in terms of population, thus the factors in those areas will follow a general trend. However, in the very densily populated city area, the variation is much greater, because due to the sharp increase in people, our factors do not have as much an impact on the model, and the sheer squeezing of people prevails in the prediction. Based on our model and population study of Kiev, Kiev is a well developed city, one that does manage to support a lot of people based on the factors that were presented to us. However, the surrounding rural landscape still has areas of human development to work on.
 
+  For the last part of the project, I decided to focus in on Yalta, one the sites of meetings between allied leaders during World War II. I decided to switch my location drastically due to the appropriate population of the area: my hardware was able to process the data for the approximately 130 thousand people living there. Additionally, I tried to study if the Russian influence and annexation of the area (Yalta is in Crimea) has had any impact on human development since 2014. 
+  
+  Firstly, I attempted to distiguish the urban and more developed areas of Yalta. Unfortunately, I was only able to generate one urban area in my map on Yalta, and this is due to the fact that Yalta is a very urban area and is relatively heavily populated for its size. It is a very narrow district and does have many residents living within its borders. My main urban area that I was able to distinguish is in the nortwest corner of the district, and I was able to confirm this data with a satellaite image of the area. 
