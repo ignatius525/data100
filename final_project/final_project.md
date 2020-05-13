@@ -2,5 +2,4 @@
 ## Ignat Miagkov
 
 ### Part 1
-![](ukraine_adm2.png)
-![](kiev_kievcity.png)
+![](ukraine_details.png) ![](kiev_kievcity.png)
